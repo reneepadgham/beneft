@@ -1,0 +1,234 @@
+h1 {
+	font-weight: 100;
+}
+
+h3 {
+	font-size: 1.25em;
+	font-weight: 200;
+}
+
+h4 {
+	font-size: 1.1em;
+}
+
+.top-bar, .top-bar-section ul li > a, .top-bar-section ul li > a:hover {
+	background-color: #fff !important;
+	color: #333 !important;
+}
+
+.top-bar {
+	padding: 10px 30px;
+}
+
+.top-bar-section ul li > a:hover {
+	font-weight: 500;
+}
+
+.top-bar img {
+	height: 35px;sx
+}
+
+.top-bar-section .has-dropdown > a:after {
+	border-color: #333 transparent transparent transparent;
+}
+
+#world-to-change {
+	background-image: url("../img/world.jpg");
+	height: 260px;
+	background-size: cover;
+	margin-top: 20px;
+}
+
+.world-inner {
+	margin-top: 25px;
+	text-align: center;
+}
+
+.world-inner h1 {
+	color: #fff;
+	font-weight: 100;
+}
+
+.world-inner button {
+	margin-top: 15px;
+}
+
+.campaigns {
+	text-align: center;
+	padding-top: 25px;
+}
+
+.campaigns img {
+	width: 220px;
+	height: 220px;
+}
+
+.campaigns h2 {
+	text-align: left;
+	font-weight: 100;
+	padding-bottom: 20px;
+	padding-left: 15px;
+}
+
+.campaigns h3 {
+	padding-top: 5px;
+}
+
+.campaigns a > p {
+	color: #000;
+	font-size: .875em;
+	font-weight: 200;
+}
+
+#profile-bg {
+	background-image: url("../img/header.jpg");
+	height: 200px;
+	background-size: cover;
+	margin-top: 20px;
+}
+
+.profile-pic {
+	text-align: right;
+}
+
+
+.profile-pic img {
+	margin-top: -75px;
+	height: 150px;
+	border: 2px solid;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.profile h3 {
+	display: inline-block;
+	padding-top: 5px;
+}
+
+.profile-info img {
+	display: inline-block;
+	margin-right: 15px;
+	height: 20px;
+}
+
+.about {
+	padding-top: 40px;
+}
+
+.about h4 {
+	font-weight: 200;
+}
+
+.contributions {
+	text-align: center;
+	padding-top: 25px;
+}
+
+.contributions img {
+	width: 220px;
+	height: 220px;
+	margin: 20px 0;
+}
+
+.contributions h2 {
+	text-align: left;
+	font-weight: 100;
+	padding-bottom: 20px;
+	padding-left: 15px;
+}
+
+.contributions a > p {
+	color: #000;
+	font-size: .875em;
+	font-weight: 200;
+}
+
+#brand-bg {
+	background-image: url("../img/beneftcampaign.png");
+	height: 200px;
+	background-size: cover;
+	margin-top: 20px;
+	background-position: center;
+}
+
+.brand-about {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.campaign-content {
+	text-align: center;
+}
+
+.feedback-bar {
+	background-color: #090909;
+	margin-top: -20px;
+}
+
+.feedback-bar img {
+	height: 15px;
+	width: auto;
+	margin: 8px 5px;
+}
+
+.feedback-bar p {
+	color: #fff;
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 100;
+	font-size: .875em;
+}
+
+.left-feedback {
+	float: left;
+	padding-left: 15px;
+	padding-right: 45px;
+}
+
+.campaign-content {
+	padding-top: 25px;
+}
+
+.navbar-brand img {
+	height: 25px;
+}
+
+.navbar-default {
+	border: none;
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+}
+
+.navbar {
+	margin-bottom: 10px;
+}
+
+.navbar-brand {
+	padding-bottom: 0;
+}
+
+.request li {
+	text-align: left;
+}
+
+.request-bg {
+	background: #EFEFEF;
+	margin-top: 10px;
+}
+
+.request {
+	width: 20%;
+	margin: auto;
+	padding: 10px 0;
+}
+
+.campaign-content .medium-5 {
+	width: 42%;
+	margin: auto;
+}
+
+
+
+
+
+
